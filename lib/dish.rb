@@ -1,4 +1,3 @@
-require './lib/dish'
 require 'pry'
 
 class Dish
